@@ -1,0 +1,6 @@
+HTML 5 major ferqleri:
+
+1.API xususi <audio> element v? <video> istifad? ed?r?k audio v? video il? isl?m?k ucun n?z?rd? tutulmusdur. Bu API audio v? video oynamaq imkan? verir, v? (?n az? d?st?kl?n?n media fayllar? ucun) media gost?rm?k ucun, Flash kimi ucuncu t?r?fin proqramlar? istifad? ehtiyac aradan qald?r?r.
+2.Istifad?cil?r web-s?hif?nin bolm?l?rini redakt eliye bil?r
+HTML 5 bolm? istifad?ci qars?l?ql? interaktiv web-pages yaratmaq ucun yeni yollar t?svir edir. Atribut«Contenteditable»(d?y?rl?r truev? ya false ed? bil?r Boolean atributu) Size web page'in her hansisa istiyen hiss?l?ri, istifad?cil?r? d?yis? bilm?y? imkan yaradir.
+3.Daha yaxs? m?zmunu t?svir etm?k ucun yeni HTML-elementl?r imkan verir.
