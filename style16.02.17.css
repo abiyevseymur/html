@@ -1,0 +1,98 @@
+.main {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.head {
+    width: 1170px;
+    height: 50px;
+    background: black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.logo .logotext {
+    float: left;
+    height: 50px;
+    margin: 0 50px;
+    font-size: 25px;
+    color: #cac5c5;
+    padding: 10px;
+}
+
+.menu ul {
+    margin-top: 0px;
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    display: inline;
+}
+
+.menu ul li a {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0 auto;
+    padding: 10px 15px;
+}
+
+.menu ul li a:hover {
+    background: silver;
+    border-radius: 50px;
+}
+
+.slider {
+    height: 200px;
+    background: silver;
+}
+
+.slidetext {
+    color: #545353;
+    float: left;
+    height: 50px;
+    margin: 50px 150px;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.news {
+    padding-right: 20px;
+    margin-left: 10px;
+}
+
+.first {
+    float: left;
+    width: 350px;
+    height: 400px;
+    margin-left: 20px;
+    border: 1px solid black;
+}
+
+.first p {
+    margin: 0 10px;
+}
+
+.first span {
+    margin-top: 10px;
+    margin-left: 5px;
+    background: silver;
+    padding: 10px 10px;
+}
+
+.first1 {
+    float: left;
+    width: 350px;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background: silver;
+}
+
+.cleaer {
+    clear: both;
+}
